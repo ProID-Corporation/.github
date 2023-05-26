@@ -32,7 +32,7 @@ ProID Corporation is looking for:
 * Advertisers - Let the Scratch Community know about ProID Corporation and its products.
 
 
-**Affilates**
+**Affiliates**
 ---
 ProID Corporation works with other studios to provide recognition and productivity. See our affiliates down below.
 
