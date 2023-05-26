@@ -33,6 +33,7 @@ ProID Corporation is looking for:
 
 
 **Affilates**
+---
 ProID Corporation works with other studios to provide recognition and productivity. See our affiliates down below.
 
 
