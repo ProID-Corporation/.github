@@ -32,6 +32,10 @@ ProID Corporation is looking for:
 * Advertisers - Let the Scratch Community know about ProID Corporation and its products.
 
 
+**Affilates**
+ProID Corporation works with other studios to provide recognition and productivity. See our affiliates down below.
+
+
 **Presto Information**
 ---
 
@@ -40,7 +44,13 @@ Starting May 14th, 2023, certain products will be using the new [Presto GPU/CPU/
 *Products Affected:*
 Hitfel 3, All Desktop Environment systems except ProID OS 1, All future products
 
-~~ProID Corporation is not an actual company but is owned by 9cjames1 and all products are under the MIT License.~~
 
+
+
+
+
+
+
+~~ProID Corporation is not an actual company but is owned by 9cjames1 and all products are under the MIT License.~~
 ProID Corporation is a registered trademark in the USA. All rights resrved.
-Presto, Hitfel 3, and ProID OS are all owned by ProID Corporation. All rights reserved.
+Presto, Hitfel 5, ComBrowser, and ProID OS are all owned by ProID Corporation. All rights reserved.
