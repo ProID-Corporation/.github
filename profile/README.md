@@ -13,10 +13,11 @@ ProID Products
 ---
 A list of currently active ProID Corporation products that are being actively developed.
 
+* [ProID Mobile](https://github.com/ProID-Corporation/ProID-Mobile) - Simple mobile operating system so mobile users can enjoy ProID aswell.
 * [Hitfel 5](https://github.com/ProID-Corporation/Hitfel-5) - Sleek console design, better graphics, and faster running on low-end devices. backwards compatible with Hitfel 3 games.
 * [ProID OS 3/Lemon](https://github.com/ProID-Corporation/ProID-OS-Lemon) - Third generation Desktop Environment emulator based with productivity and development in mind.
 * [Presto](https://github.com/ProID-Corporation/Presto) - CPU/GPU/API Handler to increase performance on heavy projects.
-* [ComBrowser](https://github.com/ProID-Corporation/ComBrowser) - Simple and fast browser for operating systems.
+
 
 This is just a list of currently active Products. There are more products to come.
 
